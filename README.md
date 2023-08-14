@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me vibabycuto@gmail.com
+- 📫 How to reach me luutrieuvi2003@gmail.com
 
 <!---
 chaowei216/chaowei216 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

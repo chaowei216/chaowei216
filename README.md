@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @chaowei216
-- 👀 I’m interested in coding
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me luutrieuvi2003@gmail.com
 
 <!---

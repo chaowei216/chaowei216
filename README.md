@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Luu Trieu Vi</h1>
 <h3 align="center">A passionate software engineer's student from Viet Nam</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/chaowei216/chaowei216/assets/103369820/b0c53172-9b27-4328-8ef9-7f825d9e22be)
-"/>
-
 # 💫About Me :
 🎓I’m currently learning at FPT University HCM<br/>
 ⭐My Major is Software Engineering
+
+<img align="right" alt="coding" width="400" src="https://github.com/chaowei216/chaowei216/assets/103369820/b0c53172-9b27-4328-8ef9-7f825d9e22be
+"/>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/trieuvi.luu.777/) 

@@ -5,8 +5,7 @@
 🎓I’m currently learning at FPT University HCM<br/>
 ⭐My Major is Software Engineering
 
-<img align="right" alt="coding" width="400" src="https://github.com/chaowei216/chaowei216/assets/103369820/b0c53172-9b27-4328-8ef9-7f825d9e22be
-"/>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/trieuvi.luu.777/) 

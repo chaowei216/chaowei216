@@ -1,4 +1,4 @@
-<img align="center" alt="" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif"/>
+<img align="center" alt="" width="400" src="https://camo.githubusercontent.com/9eb3fdcaa648566c6a055c75fc17dbaf3849b11ede8019397a30d2092fdcd3be/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3262653163655f38363435363739303038343534313865626664363165323937363337343634647e6d76322e676966"/>
 
 <h1 align="center">Hi 👋, I'm Luu Trieu Vi</h1>
 <h3 align="center">A passionate software engineer's student from Viet Nam</h3>

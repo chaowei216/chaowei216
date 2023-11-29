@@ -1,6 +1,6 @@
 # 💫About Me :
-I’m currently learning at FPT University HCM
-My Major is Software Engineering
+🎓I’m currently learning at FPT University HCM
+⭐My Major is Software Engineering
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/trieuvi.luu.777/) 

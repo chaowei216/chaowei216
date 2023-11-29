@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Luu Trieu Vi</h1>
+<h3 align="center">A passionate software engineer's student from Viet Nam</h3>
+
 # 💫About Me :
 🎓I’m currently learning at FPT University HCM
 ⭐My Major is Software Engineering

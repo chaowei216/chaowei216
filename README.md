@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer's student from Viet Nam</h3>
 
 # 💫About Me :
-🎓I’m currently learning at FPT University HCM
+🎓I’m currently learning at FPT University HCM<br/>
 ⭐My Major is Software Engineering
 
 ## 🌐Socials

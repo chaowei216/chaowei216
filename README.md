@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luu Trieu Vi</h1>
 <h3 align="center">A passionate software engineer's student from Viet Nam</h3>
 
-- 🌱 I’m currently learning **Java (Spring Boot)**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chaowei216?tab=repositories](https://github.com/chaowei216?tab=repositories)
 

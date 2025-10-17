@@ -3,6 +3,7 @@
 🎯 **Software Engineer** from **Vietnam**  
 Backend-focused developer passionate about scalability, clean architecture, and self-development.  
 I enjoy building reliable systems, exploring distributed architectures, and continuously improving my craft.
+**My Portfolio:** [finnluu]([mailto:luutrieuvi2003@gmail.com](https://portfolio-green-three-27.vercel.app/)) 
 
 ---
 

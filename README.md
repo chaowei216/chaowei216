@@ -18,10 +18,10 @@ Spring Boot • ASP.NET • Node.js • NestJS
 React  
 
 **Databases:**  
-PostgreSQL • MySQL • SQL Server  
+PostgreSQL • MySQL • SQL Server • MongoDB
 
 **Tools & Infrastructure:**  
-Kafka • Docker • AWS  
+Kafka • Docker • AWS • RabbitMQ
 
 ---
 
